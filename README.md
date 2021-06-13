@@ -16,5 +16,3 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-My API Key 
-563492ad6f91700001000001c20a63d8af5644eb8e239fd065fe1aae
